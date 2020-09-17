@@ -28,7 +28,7 @@ auto;max-width:800px;line-height:1.2;font-size:16px; font-family: Arial; </style
 
 
 <body> 
- 
+
 
 <FONT size="3.7pt"><h1>This is the <i>best</i> motherfucking website.</h1></FONT>
 <FONT size="3.5pt"><p class="st">Really, it is.</p></FONT>
@@ -49,11 +49,11 @@ auto;max-width:800px;line-height:1.2;font-size:16px; font-family: Arial; </style
 <li>The page weighs exactly 63.02kB, 93.7% less than the <a href="https://google.com/"><font color= "#3DED97">Google home page</font></a></li>
 
 <li>Fits on your iPhone 1st gen (although it doesn't work on your damn 16x32 Tamagotchi)</li>
-<li>Looks <i>almost</i> the same on every screen</li><li>Every asshole that visits this website can use it without any problem <small>well, kind of</small></li>
-<li>It's <a href="https://www.w3.org/TR/WCAG20/"><font color= "#3DED97">Accessible</font></a>, so everyone can enjoy it <small>but not everyone can read this - this text is Ant-Accessible</small></li>
+<li>Looks <i>almost</i> the same on every screen</li><li>Every asshole that visits this website can use it without any problem <font size = 1>well, kind of</font></li>
+<li>It's <a href="https://www.w3.org/TR/WCAG20/"><font color= "#3DED97">Accessible</font></a>, so everyone can enjoy it <font size = 1>but not everyone can read this - this text is Ant-Accessible</font size></li>
 <li>Shit is <i>even more</i> legible than the fucking two previous versions - and it also has a cleanish style without looking like an <a href="https://en.wikipedia.org/wiki/ARPANET"><font color= "#3DED97">Arpanet</font></a> website</li>
 <li>Doesn't load massive images or scripts. We should all care about people who still use <a href="https://en.wikipedia.org/wiki/IP_over_Avian_Carriers"><font color= "#3DED97">IPoAC</font></a></li>
-<li>Uses only free and open resources. Like this ass-breaking font called "Open Sans" <small>which btw weighs 15.21kB, wtf</small></li>
+<li>Uses only free and open resources. Like this ass-breaking font called "Open Sans" <font size = 1>which btw weighs 15.21kB, wtf</font size></li>
 <li>It doesn't load your glorious jQuery or jQueryUI with all their fucking styles and shits. Nor Angular or any other framework. This website is made with plain HTML, CSS3 and JS. Keep it Vanilla!</li>
 <li>Doesn't include any tracking service <small>this website does, but hey, who cares</small></li>
 <li>Images aren't forbidden, but when SVG is available <i>JUST USE IT</i>.</li>
@@ -76,7 +76,7 @@ auto;max-width:800px;line-height:1.2;font-size:16px; font-family: Arial; </style
 <li>It uses the kickass <a href="https://letsencrypt.org/"><font color= "#3DED97">Let's Encrypt</font></a> CA (don't you see the gorgeous lock?)</li>
 <li>It runs on <a href="https://nginx.com/"><font color= "#3DED97">nginx</font></a>: the best fucking web server instead of Apache Server</li>
 <li>It uses <a href="js/jquery-2.2.4.min.js"><font color= "#3DED97">a custom version</font></a> of the awesome <a href="http://jquery.com/"><font color= "#3DED97">ultra-lightweight jQuery</font></a> <b>/s</b></li>
-<li>It doesn't use a single media query <small>well, not really</small></li>
+<li>It doesn't use a single media query <font size = 0.2>well, not really</font size></li>
 <li>It probably doesn't support all the web browsers, but that's the best thing - if the user's browser is outdated he will notice and maybe he will switch from <a href="https://microsoft.com/ie"><font color= "#3DED97">the crap he uses</font></a> to <a href="https://www.ecosia.org/"><font color= "#3DED97">a much cooler browser</font></a></li>
 
 <li>It uses some cool technologies like JavaScript 
@@ -131,7 +131,7 @@ auto;max-width:800px;line-height:1.2;font-size:16px; font-family: Arial; </style
 <figcaption>Me when I use html language</figcaption></figure></div>
 <h2>Yes, even this is satire.</h2>
 <p>But this doesn't mean you should load your <span class="mfw">motherfuckingwebsite</span> with shitty animations, instead keep it simple, minify its resources and use images responsibly. Remember the IPoAC users, <less>requests (with a small size) = faster load time!</less></p>
-<blockquote><span>Good design is as little design as possible.</span><author><small>Some German motherfucker on motherfuckingwebsite.com<</small></author></blockquote>
+<blockquote><span>Good design is as little design as possible.</span><author><Br><font size =1>-     Some German motherfucker on motherfuckingwebsite.com</font size></author></blockquote>
 
 <p>That's not entirely true, look at that <span class="mfw">motherfuckingwebsite</span>. It's so minimal that it can be considered crap.</p>
 <h2>Epilogue</h2>
@@ -168,19 +168,19 @@ Don't worry, it can be read in less than 30 seconds, unless you have some sort o
 <h2>Contributions</h2>
 <p>Since this website includes some contributions, and I'm not an asshole, I'll publically thank the following users for their help:</p>
 <ul>
-<li><a href="https://github.com/beardog108">@beardog108</a> for his <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues/5">precious suggestions</a> for
+<li><a href="https://github.com/beardog108"><font color= "#3DED97">@beardog108</font></a> for his <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues/5"><font color= "#3DED97">precious suggestions</font></a> for
 the server side part (Cache-Control, HTTP/2, CORS and Piwik)</li>
-<li><a href="https://github.com/5ilver">@5ilver</a>, <a href="https://github.com/abluejelly">@abluejelly</a>, <a href="https://github.com/bharadwaj-raju">@bharadwaj-raju</a> for giving tips about <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues?q=label%3Acontrast">contrast</a></li>
+<li><a href="https://github.com/5ilver"><font color= "#3DED97">@5ilver</font></a>, <a href="https://github.com/abluejelly"><font color= "#3DED97">@abluejelly</font></a>, <a href="https://github.com/bharadwaj-raju"><font color= "#3DED97">@bharadwaj-raju</font></a> for giving tips about <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues?q=label%3Acontrast"><font color= "#3DED97">contrast</font></a></li>
 
-<li><a href="https://github.com/hellerbarde">@hellerbarde</a> for his hint about the <span class="visited">visited link color</span> (he proposed <a href="http://clrs.cc/"><span class="visited-maroon">maroon</span></a>) - if you don't like it, <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues/11">complain about it here</a></li>
+<li><a href="https://github.com/hellerbarde"><font color= "#3DED97">@hellerbarde</font></a> for his hint about the <span class="visited">visited link color</span> (he proposed <a href="http://clrs.cc/"><span class="visited-maroon"><font color= "#3DED97">maroon</font></span></a>) - if you don't like it, <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues/11"><font color= "#3DED97">complain about it here</font></a></li>
 
-<li><a href="https://github.com/glodime">@glodime</a> for his suggestion about <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues/12">text justification on mobile</a></li>
+<li><a href="https://github.com/glodime"><font color= "#3DED97">glodime</font></a> for his suggestion about <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues/12"><font color= "#3DED97">text justification on mobile</font></a></li>
 
-<li><a href="https://github.com/arthurtiteica">@arthurtiteica</a> and <a href="https://github.com/vktec">@vktec</a> for their suggestions about <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues/9">PIN Code</a> / <a href="https://en.wikipedia.org/wiki/RAS_syndrome">RAS Syndrome</a> fix.</li>
+<li><a href="https://github.com/arthurtiteica"><font color= "#3DED97">@arthurtiteica</font></a> and <a href="https://github.com/vktec"><font color= "#3DED97">@vktec</font></a> for their suggestions about <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues/9"><font color= "#3DED97">PIN code</font></a> / <a href="https://en.wikipedia.org/wiki/RAS_syndrome"><font color= "#3DED97">RAS syndrome</font></a> fix.</li>
 
-<li><a href="https://github.com/friendlyanon">@friendlyanon</a> and <a href="https://github.com/C-Lodder">@C-Lodder</a> for improving the JS.</li>
+<li><a href="https://github.com/friendlyanon"><font color= "#3DED97">@friendlyanon</font></a> and <a href="https://github.com/C-Lodder"><font color= "#3DED97">@C-Lodder</font></a> for improving the JS.</li>
 
-<li><span><a href="https://github.com/Zsavajji">@Zsavajji</a></span><span class="separator">, </span><span><a href="https://github.com/CapacitorSet">@CapacitorSet</a></span><span class="separator">, </span><span><a href="https://github.com/danielquinn">@danielquinn</a></span><span class="separator">, </span><span><a href="https://github.com/ehea617">@ehea617</a></span><span class="separator">, </span><span><a href="https://github.com/MrSaad">@MrSaad</a></span><span class="separator">, </span><span><a href="https://github.com/tqdv">@tqdv</a></span><span class="separator">, </span><span><a href="https://github.com/mothinx">@mothinx</a></span><span> for <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/pulls?q=is%3Apr+is%3Aclosed+label%3A%22spell+checking%22">their help in spell checking</a></span></li>
+<li><span><a href="https://github.com/Zsavajji"><font color= "#3DED97">@Zsavajji</font></a></span><span class="separator">, </span><span><a href="https://github.com/CapacitorSet"><font color= "#3DED97">@Capacitorset</font></a></span><span class="separator">, </span><span><a href="https://github.com/danielquinn"><font color= "#3DED97">@Danielquinn</font></a></span><span class="separator">, </span><span><a href="https://github.com/ehea617"><font color= "#3DED97">@ehea617</font></a></span><span class="separator">, </span><span><a href="https://github.com/MrSaad"><font color= "#3DED97">@MrSaad</font></a></span><span class="separator">, </span><span><a href="https://github.com/tqdv"><font color= "#3DED97">@tqdv</font></a></span><span class="separator">, </span><span><a href="https://github.com/mothinx"><font color= "#3DED97">@mothinx</font></a></span><span> for <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/pulls?q=is%3Apr+is%3Aclosed+label%3A%22spell+checking%22"><font color= "#3DED97">their help in spell checking</font></a></span></li>
 </ul>
 
 
